@@ -168,16 +168,14 @@ All outputs will be generated and stored automatically.
 - Some LLM-based parsing steps may occasionally fail and are handled gracefully  
 
 
-## Citing this work
-If you find this code useful, please cite our paper
-```
-@misc{hahn2024proactive,
-    title={Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty},
-    author={Meera Hahn and Wenjun Zeng and Nithish Kannen and Rich Galt and Kartikeya Badola and Been Kim and Zi Wang},
-    year={2024},
-    eprint={2412.06771},
-    archivePrefix={arXiv},
-    primaryClass={cs.AI}
-}
+## Citation
 
-```
+```bibtex
+@misc{hahn2024proactive,
+  title={Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty},
+  author={Hahn, Meera and Zeng, Wenjun and Kannen, Nithish and Galt, Rich and Badola, Kartikeya and Kim, Been and Wang, Zi},
+  year={2024},
+  eprint={2412.06771},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI}
+}
