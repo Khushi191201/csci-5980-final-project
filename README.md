@@ -166,3 +166,18 @@ All outputs will be generated and stored automatically.
 - Dataset size is limited to 30 samples for efficiency  
 - Results are cached to avoid recomputation  
 - Some LLM-based parsing steps may occasionally fail and are handled gracefully  
+
+
+## Citing this work
+If you find this code useful, please cite our paper
+```
+@misc{hahn2024proactive,
+    title={Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty},
+    author={Meera Hahn and Wenjun Zeng and Nithish Kannen and Rich Galt and Kartikeya Badola and Been Kim and Zi Wang},
+    year={2024},
+    eprint={2412.06771},
+    archivePrefix={arXiv},
+    primaryClass={cs.AI}
+}
+
+```
